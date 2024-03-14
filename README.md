@@ -78,4 +78,6 @@ Proses serta dokumentasi pembuatan open API menggunakan postman:
 
 
 *Link Github*
+https://github.com/22091397084-VanessaAuliaMIC22/Tugas-2_Kelompok-5_API.git
 https://github.com/Dnvfx/Tugas-2_Kelompok-5_API
+https://github.com/anispp/Tugas-2_Pemrograman-API_Kelompok-5
